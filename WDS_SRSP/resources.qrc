@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/led/led_green.png</file>
+        <file>img/led/led_red.png</file>
+    </qresource>
+    <qresource prefix="/tree">
+        <file>img/models/drzewo0.png</file>
+        <file>img/models/drzewo1.png</file>
+        <file>img/models/drzewo2.png</file>
+        <file>img/models/drzewo3.png</file>
+    </qresource>
+    <qresource prefix="/car">
+        <file>img/models/car.png</file>
+    </qresource>
+    <qresource prefix="/road">
+        <file>img/road/road0.png</file>
+        <file>img/road/road1.png</file>
+        <file>img/road/road2.png</file>
+        <file>img/road/road3.png</file>
+        <file>img/road/road5.png</file>
+    </qresource>
+    <qresource prefix="/translate"/>
+    <qresource prefix="/translation">
+        <file>translation/WDS_SRSP_en_150.qm</file>
+    </qresource>
+</RCC>
